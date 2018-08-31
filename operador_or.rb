@@ -1,5 +1,5 @@
 =begin
- El operador || evalua true cuando una o u otra o ambas expresiones son verdaders
+ El operador || evalua true cuando una o u otra o ambas expresiones son verdaderas
  por ejemplo => true || true = true
  true || false = true
  false || true = true
